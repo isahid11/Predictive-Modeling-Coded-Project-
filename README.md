@@ -2,7 +2,7 @@
 
 Course: Predictive Modeling
 
-This project has two parts 
+This project has two parts :
 
 a) Computer-activ Project using Linear Regression which aims to predict the percentage time the computer remains in user mode. 
 
